@@ -16,7 +16,7 @@ project:
 pinout:
   # Inputs
   ui[0]: "pinin"
-  ui[1]: ""
+  ui[1]: "in_CLK"
   ui[2]: ""
   ui[3]: ""
   ui[4]: ""
